@@ -1,1 +1,1 @@
-# Neural-Network-bird-audio-detection
+The purpose of this group project is to determine the presence or absence of bird sounds in sound clips. To achieve this, we use supervised learning by neural networks. The sound extracts are first transformed into images representing a frequency spectrum. Next, we use Keras (Python library) to build a convolution neural network to process them.
